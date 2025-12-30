@@ -1,4 +1,4 @@
-from src.Stats import Stat
+from src.stats import Stat
 
 
 def test_stat_modifiers_sequence():
